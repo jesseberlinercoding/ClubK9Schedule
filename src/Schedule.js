@@ -98,7 +98,7 @@ export default function Schedule() {
 						: "Please choose an option"
 					}
 			</div>
-			<div>Insert key: <input type="text" id="apiKey" onBlur={setKey}></input></div>
+			<div>Insert key: <input type="text" id="apiKey" onBlur={setKey}></input><input type="button" value="Go"></input></div>
 			{apiKey ? 
 				(<div>
 					<input type="button" value="Get next week" onClick={() => getData(7)}></input>
