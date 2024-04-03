@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ClubK9Schedule/static/css/main.b2579d4d.css",
+    "main.js": "/ClubK9Schedule/static/js/main.d4d2cc53.js",
+    "index.html": "/ClubK9Schedule/index.html",
+    "main.b2579d4d.css.map": "/ClubK9Schedule/static/css/main.b2579d4d.css.map",
+    "main.d4d2cc53.js.map": "/ClubK9Schedule/static/js/main.d4d2cc53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2579d4d.css",
+    "static/js/main.d4d2cc53.js"
+  ]
+}
