@@ -33,9 +33,7 @@ export default function Schedule() {
 
 	function setKey(e) {
 		setAPIKey(e.target.value);
-		
-		// dbe16a9f28ce12c54ac111a8f8a5c6c1
-		
+				
 		e.target.value = '';
 	}
 
