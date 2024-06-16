@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ClubK9Schedule/static/css/main.b2579d4d.css",
-    "main.js": "/ClubK9Schedule/static/js/main.f109ba3a.js",
+    "main.js": "/ClubK9Schedule/static/js/main.d479335e.js",
     "index.html": "/ClubK9Schedule/index.html",
     "main.b2579d4d.css.map": "/ClubK9Schedule/static/css/main.b2579d4d.css.map",
-    "main.f109ba3a.js.map": "/ClubK9Schedule/static/js/main.f109ba3a.js.map"
+    "main.d479335e.js.map": "/ClubK9Schedule/static/js/main.d479335e.js.map"
   },
   "entrypoints": [
     "static/css/main.b2579d4d.css",
-    "static/js/main.f109ba3a.js"
+    "static/js/main.d479335e.js"
   ]
 }
